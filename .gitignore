@@ -1,0 +1,16 @@
+/.gradle/
+/local.properties
+/**/build/
+/private/
+/artifacts/
+/releases/
+/*.log
+*.jks
+*.keystore
+*.p12
+*.pfx
+signing.properties
+.env
+.env.*
+/.idea/
+*.iml
